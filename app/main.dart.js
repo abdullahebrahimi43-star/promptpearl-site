@@ -104193,7 +104193,7 @@ return s},
 $S:639}
 A.U4.prototype={
 E(a){var s=A.bc4(a,new A.aor(),t.V,t.jm),r=A.aUj(B.aq),q=A.aUj(B.a6)
-return new A.EN(B.G9,new A.aos(),"PromptPearl AI Studio",r,q,s,!1,null)}}
+return new A.EN(B.G9,new A.aos(),"PromptPearl AI",r,q,s,!1,null)}}
 A.aor.prototype={
 $1(a){return a.a},
 $S:640}
@@ -104277,7 +104277,7 @@ $0(){return v.G.URL.revokeObjectURL(this.a)},
 $S:0}
 A.Xe.prototype={
 E(a){var s=null
-return A.ea(s,new A.vW(A.fb(!0,new A.at(B.rv,A.bP(A.b([B.aeB,new A.z0(new A.aC(0.6,1,t.Y),new A.axw(),B.a9r,B.m0,B.M2,s,s,t.HN),B.hX,B.akH,B.ai,new A.VH(new A.axx(),B.am6,s),B.aeC,new A.dZ("Create free account",new A.axy(a),s,!1,s),B.aH,new A.Mm(s),B.ai,A.ee(B.alH,s,s,new A.axz(a),s,s),B.aH],t.p),B.z,B.m,B.C),s),!1,B.Q,!0),s),s,!1,s)}}
+return A.ea(s,new A.vW(A.fb(!0,new A.at(B.rv,A.bP(A.b([B.aeB,new A.z0(new A.aC(0.6,1,t.Y),new A.axw(),B.a9r,B.m0,B.M2,s,s,t.HN),B.hX,B.alB,B.ai,new A.VH(new A.axx(),B.am6,s),B.aeC,new A.dZ("Create free account",new A.axy(a),s,!1,s),B.aH,new A.Mm(s),B.ai,A.ee(B.alH,s,s,new A.axz(a),s,s),B.aH],t.p),B.z,B.m,B.C),s),!1,B.Q,!0),s),s,!1,s)}}
 A.axw.prototype={
 $3(a,b,c){return A.b_w(c,b)},
 $S:642}
@@ -104415,7 +104415,7 @@ $0(){return this.a.r=!0},
 $S:0}
 A.aLf.prototype={
 $1(a){var s=null,r=this.a,q=A.a2("We sent a verification link to "+B.c.d4(r.e.a.a)+". Open it on this phone to finish signing up.",s,s,s,s,s,s,s)
-return A.vK(A.b([A.ee(B.akJ,s,s,new A.aLd(r),s,s)],t.p),q,B.akw)},
+return A.vK(A.b([A.ee(B.akI,s,s,new A.aLd(r),s,s)],t.p),q,B.akw)},
 $S:64}
 A.aLd.prototype={
 $0(){var s=this.a.c
@@ -104468,7 +104468,7 @@ case 6:case 1:return A.m(q,r)
 case 2:return A.l(o.at(-1),r)}})
 return A.n($async$ff,r)},
 E(a){var s=null
-return new A.pV("Reset password",A.b([B.alz,B.bQ,A.fT(B.b2,!1,this.d,B.nc,B.i2,s,1,s,!1,s,s,B.bk),B.eh,new A.dZ("Send reset link",this.gqG(),s,this.e,s)],t.p),s)}}
+return new A.pV("Reset password",A.b([B.aly,B.bQ,A.fT(B.b2,!1,this.d,B.nc,B.i2,s,1,s,!1,s,s,B.bk),B.eh,new A.dZ("Send reset link",this.gqG(),s,this.e,s)],t.p),s)}}
 A.aKa.prototype={
 $0(){return this.a.e=!0},
 $S:0}
@@ -104567,7 +104567,7 @@ return A.n($async$x8,r)},
 JI(a,b){var s=null,r=A.HN(s,-1,s)
 r.V=new A.ay1(b)
 return A.du(s,s,s,s,s,r,s,s,s,B.ajs,a)},
-E(a){var s,r=this,q=null,p=A.Ce(q,B.dZ,new A.ay4(r),B.alx,r.d),o=r.e
+E(a){var s,r=this,q=null,p=A.Ce(q,B.dZ,new A.ay4(r),B.alw,r.d),o=r.e
 o=A.Ce(q,B.dZ,new A.ay5(r),A.aTc(A.du(A.b([B.afL,r.JI("Terms","https://promptpearl.app/terms.html"),B.afK,r.JI("Privacy Policy","https://promptpearl.app/privacy.html"),B.afM,r.JI("Content Policy",u.p)],t.VO),q,q,q,q,q,q,q,q,B.F5,q),q,q),o)
 s=r.f
 return new A.pV("Before you start",A.b([p,o,B.eh,new A.dZ("Continue",r.d&&r.e?r.gaj9():q,q,s,q),B.aH,B.afk],t.p),q)}}
@@ -104629,7 +104629,7 @@ return A.h(A.bD(n,!1).dz(p),$async$wY)
 case 6:if(m.c(b,!0)){p=q.f.gP()
 if(p!=null)p.kD()}case 3:return A.m(null,r)}})
 return A.n($async$wY,r)},
-E(a){var s=this,r=null,q=s.gE8(),p=A.fk(r,new A.HE(B.VM,q,r),r,r,B.alc),o=A.b([new A.My(new A.aAs(s),s.e),new A.J9(s.f)],t.p)
+E(a){var s=this,r=null,q=s.gE8(),p=A.fk(r,new A.HE(B.VM,q,r),r,r,B.ala),o=A.b([new A.My(new A.aAs(s),s.e),new A.J9(s.f)],t.p)
 return A.ea(p,new A.HG(q,o,r),r,!1,new A.wS(B.Pi,B.i,B.b0,s.gaib(),A.a2(q.d===0?"New story":"New character",r,r,r,r,r,r,r),r))}}
 A.aAr.prototype={
 $0(){return this.a.J(new A.aAq())},
@@ -104724,7 +104724,7 @@ E(a){var s=this,r=s.e
 if(r!=null)return new A.JX(r,s.gRQ(),null)
 r=s.d
 if(r==null)return B.fU
-if(J.j3(r))return B.IY
+if(J.j3(r))return B.IX
 r=s.d
 r.toString
 return A.y_(A.aSg(null,B.Ex,new A.aAF(s),J.cQ(r),B.rp,null,!1),s.gRQ())}}
@@ -104742,7 +104742,7 @@ $0(){return this.a.e=J.d9(this.b)},
 $S:0}
 A.aAx.prototype={
 $1(a){var s=null,r=A.a2("Delete "+A.j(this.a.h(0,"name"))+"?",s,s,s,s,s,s,s)
-return A.vK(A.b([A.ee(B.fw,s,s,new A.aAv(a),s,s),A.ee(B.oP,s,s,new A.aAw(a),s,s)],t.p),B.al1,r)},
+return A.vK(A.b([A.ee(B.fw,s,s,new A.aAv(a),s,s),A.ee(B.oP,s,s,new A.aAw(a),s,s)],t.p),B.al0,r)},
 $S:64}
 A.aAv.prototype={
 $0(){A.bD(this.a,!1).eH(!1)
@@ -104758,7 +104758,7 @@ if(o.h(0,p)!=null)n.push(new A.at(B.mc,A.a2(A.a0(o.h(0,p)),q,q,q,q,q,q,q),q))
 n.push(B.bQ)
 n.push(B.ako)
 n.push(B.oA)
-n.push(B.alg)
+n.push(B.ale)
 n.push(B.ai)
 s=this.c
 r=this.a
@@ -104902,7 +104902,7 @@ r=A.cN(a1,!0,a).z.h(0,"image:standard")
 if(r==null)r=10
 a=c.d
 q=B.c.d4(a.a.a).length!==0&&B.c.d4(c.e.a.a).length>=3&&!c.y
-a0=A.fk(b,b,b,b,B.akI)
+a0=A.fk(b,b,b,b,B.akH)
 p=A.bB(a1,b,t.w).w
 a=A.fT(B.b2,!1,a,B.PZ,b,40,1,b,!1,new A.aGU(c),b,B.bk)
 o=A.fT(B.b2,!1,c.e,B.PT,b,600,5,3,!1,new A.aGV(c),b,B.bk)
@@ -104922,7 +104922,7 @@ d=e==null
 e=d?B.n8:A.ahf(e.a,B.df,b,b)
 g=A.hh(!1,h,!0,A.cS(b,e,B.aT,b,b,new A.cM(b,b,f,g,b,b,B.aj),b,90,b,b,b,b,90),b,!0,b,b,b,b,b,b,b,b,b,c.gatN(),b,b,b,b,b,b,b)
 h=q&&!d&&c.x?new A.aGY(c):b
-h=A.b([B.alC,B.cI,B.akp,B.aH,A.cA(A.b([g,B.hV,A.eO(new A.Fj(!1,h,b,b,b,A.Tt(b,b,b,b,b,b,b,b,b,b,b,B.ow,b,b,b,b,b,b,b,b),b,b,!1,b,!0,b,B.alo,b),1)],m),B.z,B.m,B.C,0)],m)
+h=A.b([B.alC,B.cI,B.akp,B.aH,A.cA(A.b([g,B.hV,A.eO(new A.Fj(!1,h,b,b,b,A.Tt(b,b,b,b,b,b,b,b,b,b,b,B.ow,b,b,b,b,b,b,b,b),b,b,!1,b,!0,b,B.alm,b),1)],m),B.z,B.m,B.C,0)],m)
 if(c.w!=null)h.push(A.Ce(B.Q,B.dZ,new A.aGZ(c),B.akE,c.x))
 return A.ea(a0,A.f7(A.b([a,o,n,B.ai,B.akv,B.ai,l,B.eh,k,B.ai,A.fl(new A.at(B.cV,A.bP(h,B.ak,B.m,B.C),b),b,b,b,b)],m),new A.ag(16,8,16,24+p.w.d),b,B.P,!1),b,!1,b)}}
 A.aGN.prototype={
@@ -104994,7 +104994,7 @@ if(s!=null)return A.f7(A.b([new A.at(B.eS,A.a2(A.j(s),q,q,q,q,q,q,q),q)],t.p),q,
 s=b.b
 s.toString
 r=J.b8(s)
-if(r.ga9(s))return A.f7(A.b([B.aen,B.am5,B.ai,B.al5,B.bQ,A.dN(A.ee(B.alq,q,q,this.a.a.c,q,q),q,q)],t.p),B.j1,q,B.P,!1)
+if(r.ga9(s))return A.f7(A.b([B.aen,B.am5,B.ai,B.al4,B.bQ,A.dN(A.ee(B.alo,q,q,this.a.a.c,q,q),q,q)],t.p),B.j1,q,B.P,!1)
 return A.aYs(new A.aLQ(this.a,s,a),r.gG(s),B.rp)},
 $S:99}
 A.aLQ.prototype={
@@ -105149,7 +105149,7 @@ if(r==null)return B.tM
 r=J.a7x(r,new A.aH9())
 s=A.a7(r,r.$ti.i("L.E"))
 r=s.length
-if(r===0)return B.akY
+if(r===0)return B.akX
 return A.dT(A.aYt(new A.aHa(this.a,s),r,B.ao,new A.aHb()),150,null)},
 $S:99}
 A.aH9.prototype={
@@ -105477,7 +105477,7 @@ a6="Voice all "+m
 a6=A.a2(a5?a6+" scenes ("+m*i+" credits)":a6+" scenes (free)",b0,b0,b0,b0,b0,b0,b0)
 if(a9.w.a===0&&!d)a5=a5&&j.c<m*i?new A.aAh(b2,m,i):a9.gayA()
 else a5=b0
-a3.push(A.a7G(B.tk,a6,a5))}r=A.b([a2,B.aH,r,A.iV(a3,8,8),B.cI,B.akM],a)
+a3.push(A.a7G(B.tk,a6,a5))}r=A.b([a2,B.aH,r,A.iV(a3,8,8),B.cI,B.akL],a)
 if(!g&&h.h(0,"status")!=null)B.b.N(r,A.b([B.ai,new A.Yd(h,b0)],a))
 if(k>0&&e){g=""+k
 a2=a9.at
@@ -105538,7 +105538,7 @@ return null},
 $S:0}
 A.azY.prototype={
 $1(a){var s=this.a,r=s.d
-return A.fb(!0,new A.at(B.mf,A.bP(A.b([B.akl,B.cI,B.akP,B.aH,new A.AJ(this.b,A.al(r==null?null:r.h(0,"narrator_voice")),new A.azX(s),null)],t.p),B.ak,B.m,B.a9),null),!1,B.Q,!0)},
+return A.fb(!0,new A.at(B.mf,A.bP(A.b([B.akl,B.cI,B.akO,B.aH,new A.AJ(this.b,A.al(r==null?null:r.h(0,"narrator_voice")),new A.azX(s),null)],t.p),B.ak,B.m,B.a9),null),!1,B.Q,!0)},
 $S:123}
 A.azX.prototype={
 $1(a){return this.a95(a)},
@@ -105591,7 +105591,7 @@ $0(){return this.a.r.F(0,this.b)},
 $S:0}
 A.azT.prototype={
 $1(a){var s=null
-return A.vK(A.b([A.ee(B.fw,s,s,new A.azR(a),s,s),A.ee(B.oP,s,s,new A.azS(a),s,s)],t.p),B.akR,B.ali)},
+return A.vK(A.b([A.ee(B.fw,s,s,new A.azR(a),s,s),A.ee(B.oP,s,s,new A.azS(a),s,s)],t.p),B.akQ,B.alg)},
 $S:64}
 A.azR.prototype={
 $0(){A.bD(this.a,!1).eH(!1)
@@ -105751,7 +105751,7 @@ m=l?B.b7.eY(0.08):B.ce.eY(0.08)
 k=t.p
 p=A.b([],k)
 if(l){o=A.a2(j+" scenes: "+s+" of "+r,n,n,n,n,B.bE,n,n)
-B.b.N(p,A.b([o,B.ai,A.aiG(n,r>0?s/r:n,n),B.ai,B.ala],k))}else{q.toString
+B.b.N(p,A.b([o,B.ai,A.aiG(n,r>0?s/r:n,n),B.ai,B.al8],k))}else{q.toString
 p.push(A.a2(q,n,n,n,n,B.fu,n,n))}return A.fl(new A.at(B.iZ,A.bP(p,B.ak,B.m,B.C),n),n,m,n,n)}}
 A.AJ.prototype={
 a2(){return new A.Nc(A.aWh())},
@@ -105818,7 +105818,7 @@ $0(){return this.a.e=this.b},
 $S:0}
 A.JX.prototype={
 E(a){var s=null
-return A.dN(new A.at(B.j1,A.bP(A.b([B.OF,B.aH,A.a2(this.c,s,s,s,s,s,B.aJ,s),B.cI,B.alr,B.bQ,A.aXu(B.n9,B.Fc,this.d)],t.p),B.z,B.m,B.a9),s),s,s)}}
+return A.dN(new A.at(B.j1,A.bP(A.b([B.OF,B.aH,A.a2(this.c,s,s,s,s,s,B.aJ,s),B.cI,B.alp,B.bQ,A.aXu(B.n9,B.Fc,this.d)],t.p),B.z,B.m,B.a9),s),s,s)}}
 A.JV.prototype={
 a2(){return new A.JW()},
 aH2(){return this.y.$0()}}
@@ -105914,7 +105914,7 @@ else s=!1
 if(s)i.push(A.a2(""+B.d.aK(A.dJ(m.h(0,n)))+" s",o,o,o,o,B.d8,o,o))
 r=A.cA(i,B.z,B.m,B.C,0)
 if(k==="building"){l=l?o:m.h(0,"progress")
-q=A.bP(A.b([B.tM,B.bj,A.a2("Building your episode\u2026 "+A.j(l==null?"":l),o,o,o,o,o,B.aJ,o),B.cI,B.akK],j),B.z,B.m,B.C)}else{if(h)i=(l?o:m.h(0,"url"))!=null
+q=A.bP(A.b([B.tM,B.bj,A.a2("Building your episode\u2026 "+A.j(l==null?"":l),o,o,o,o,o,B.aJ,o),B.cI,B.akJ],j),B.z,B.m,B.C)}else{if(h)i=(l?o:m.h(0,"url"))!=null
 else i=!1
 if(i){l=A.cR(12)
 i=m.h(0,"finished_at")
@@ -105940,13 +105940,13 @@ s=n.a.x
 if(s>0){n=n.c
 n.toString
 m.push(new A.at(B.md,A.a2(""+s+' scene(s) have no voices yet \u2014 tap "Voice all scenes" first if you want them.',o,o,o,o,A.eD(o,o,A.N(n).ax.a===B.a6?B.bq:B.qA,o,o,o,o,o,o,o,o,13,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o),o))}m.push(B.bQ)
-m.push(B.akO)
+m.push(B.akN)
 m.push(B.ai)
 n=A.b([],l)
 for(l=this.c,s=l.length,r=this.a,q=0;q<l.length;l.length===s||(0,A.E)(l),++q){p=l[q]
 n.push(A.og(o,A.a2(A.a0(p.h(0,"label")),o,o,o,o,o,o,o),new A.aD_(r,b,p),r.a===p.h(0,"key"),o,o))}m.push(A.iV(n,8,8))
 m.push(B.ai)
-m.push(A.b_8(B.Q,new A.aD0(r,b),B.akL,B.akz,r.b))
+m.push(A.b_8(B.Q,new A.aD0(r,b),B.akK,B.akz,r.b))
 m.push(B.ai)
 m.push(new A.dZ("Build episode (free)",new A.aD1(a),B.t7,!1,o))
 return A.fb(!0,new A.at(B.mf,A.bP(m,B.bK,B.m,B.a9),o),!1,B.Q,!0)},
@@ -106075,7 +106075,7 @@ break
 case 6:case 1:return A.m(q,r)
 case 2:return A.l(o.at(-1),r)}})
 return A.n($async$ot,r)},
-E(a){var s=this,r=null,q=A.fk(A.b([new A.Rc(B.akX,s.e,new A.aBg(s),r),B.hV],t.p),r,r,r,B.alM),p=s.d.length
+E(a){var s=this,r=null,q=A.fk(A.b([new A.Rc(B.akW,s.e,new A.aBg(s),r),B.hV],t.p),r,r,r,B.alM),p=s.d.length
 p=p===0&&!s.f?A.f7(B.WW,r,r,B.P,!1):A.aSg(s.w,B.aeq,new A.aBh(s),p,B.iZ,r,!1)
 return A.ea(q,A.y_(p,new A.aBi(s)),r,!1,r)}}
 A.aBj.prototype={
@@ -106254,7 +106254,7 @@ m=r[p]
 n.a=null
 n.a=m.b
 s.push(A.ee(A.a2(m.a,g,g,g,g,B.cr,g,g),g,g,new A.aBq(n),g,g))}b.push(A.iV(s,0,4))
-if(e.db.length!==0){c=A.b([B.eh,B.all,B.cI,B.am3,B.bj],c)
+if(e.db.length!==0){c=A.b([B.eh,B.alj,B.cI,B.am3,B.bj],c)
 for(s=e.db,r=s.length,p=0;p<s.length;s.length===r||(0,A.E)(s),++p){j=s[p]
 n=h.e.h(0,j.h(0,"pack_id"))
 m=h.r
@@ -106262,7 +106262,7 @@ l=j.h(0,"pack_id")
 c.push(new A.a12(j,n,m!=null,m==null?l==null:m===l,new A.aBr(h,j),q,g))}B.b.N(b,c)}c=h.e
 if(c.gc9(c))$.m_()
 b.push(B.hX)
-b.push(B.alk)
+b.push(B.ali)
 b.push(B.ai)
 i=h.d
 if(i===$)i=h.d=h.tO()
@@ -106359,7 +106359,7 @@ o=A.cA(A.b([q,B.kn,A.a2(o,j,j,j,j,A.eD(j,j,A.N(a).ax.a===B.a6?B.b7:B.eK,j,j,j,j,
 q=A.b([o,B.cp,A.a2(p?A.j(h.h(0,"credits"))+" welcome credits to start (one time)":A.j(h.h(0,"credits"))+" credits every month",j,j,j,j,j,j,j),B.cp],n)
 for(p=s.length,m=0;m<p;++m){l=s[m]
 $.m_()
-q.push(new A.at(B.Mh,A.cA(A.b([B.P0,B.hW,new A.k3(1,B.cW,A.a2(A.jT(l,"Google Play","your account"),j,j,j,j,B.d8,j,j),j)],n),B.z,B.m,B.C,0),j))}if(f){h=A.b([A.cS(j,B.alj,B.n,j,j,new A.cM(B.eJ.eY(0.15),j,j,A.cR(20),j,j,B.aj),j,j,j,B.Mq,j,j,j),B.kn],n)
+q.push(new A.at(B.Mh,A.cA(A.b([B.P0,B.hW,new A.k3(1,B.cW,A.a2(A.jT(l,"Google Play","your account"),j,j,j,j,B.d8,j,j),j)],n),B.z,B.m,B.C,0),j))}if(f){h=A.b([A.cS(j,B.alh,B.n,j,j,new A.cM(B.eJ.eY(0.15),j,j,A.cR(20),j,j,B.aj),j,j,j,B.Mq,j,j,j),B.kn],n)
 if(g>0)h.push(A.ee(B.aku,j,j,new A.aHW(),j,j))
 B.b.N(q,A.b([B.bj,A.cA(h,B.z,B.m,B.C,0)],n))}else if(g>0){h=A.j(h.h(0,i))
 f=k.r
@@ -106498,7 +106498,7 @@ E(a){var s,r,q,p,o=this,n=null,m=o.gcU().e==="completed"&&o.gcU().r!=null,l=t.p,
 if(m){s=o.f?n:o.gakY()
 k.push(A.hP(n,n,A.la(o.gcU().z?B.n3:B.NA,n,n,B.bq,n,n,n,n,n,n,n,n,n,n),n,n,s,n,n,n))}s=o.gcU().e
 if(s==="completed"||s==="failed")k.push(A.hP(n,n,B.nb,n,n,o.f?n:o.gajM(),n,n,n))
-k=A.fk(k,n,n,n,B.alh)
+k=A.fk(k,n,n,n,B.alf)
 s=A.cR(20)
 if(m&&o.gcU().b==="video"){r=o.gcU().r
 r.toString
@@ -106554,7 +106554,7 @@ o=A
 s=3
 return A.h(p.xe(),$async$$0)
 case 3:s=2
-return A.h(o.Oo(b,p.gXa(),"Made with PromptPearl AI Studio"),$async$$0)
+return A.h(o.Oo(b,p.gXa(),"Made with PromptPearl AI"),$async$$0)
 case 2:return A.m(null,r)}})
 return A.n($async$$0,r)},
 $S:3}
@@ -106574,7 +106574,7 @@ $0(){return this.a.gcU().z=this.b},
 $S:0}
 A.aEc.prototype={
 $1(a){var s=null
-return A.vK(A.b([A.ee(B.fw,s,s,new A.aEa(a),s,s),A.ee(B.oP,s,s,new A.aEb(a),s,s)],t.p),B.akT,B.al2)},
+return A.vK(A.b([A.ee(B.fw,s,s,new A.aEa(a),s,s),A.ee(B.oP,s,s,new A.aEb(a),s,s)],t.p),B.akS,B.al1)},
 $S:64}
 A.aEa.prototype={
 $0(){A.bD(this.a,!1).eH(!1)
@@ -106697,7 +106697,7 @@ if(r==null)r=10
 o=o.z.h(0,"video:5s")
 if(o==null)o=70
 q=t.p
-return A.cS(p,A.cA(A.b([A.eO(A.bP(A.b([n,B.cp,m,A.a2("Picture "+r+" \xb7 Video from "+o,p,p,p,p,B.d7,p,p)],q),B.ak,B.m,B.C),1),A.aS6(B.ald,new A.aBk(a),A.b8R(B.i,B.b0,p))],q),B.z,B.m,B.C,0),B.n,p,p,new A.cM(p,p,p,s,p,B.dY,B.aj),p,p,p,B.ru,p,p,p)}}
+return A.cS(p,A.cA(A.b([A.eO(A.bP(A.b([n,B.cp,m,A.a2("Picture "+r+" \xb7 Video from "+o,p,p,p,p,B.d7,p,p)],q),B.ak,B.m,B.C),1),A.aS6(B.alb,new A.aBk(a),A.b8R(B.i,B.b0,p))],q),B.z,B.m,B.C,0),B.n,p,p,new A.cM(p,p,p,s,p,B.dY,B.aj),p,p,p,B.ru,p,p,p)}}
 A.aBk.prototype={
 $0(){return A.aRu(this.a,3)},
 $S:0}
@@ -106851,7 +106851,7 @@ for(q=a5.w,p=q.length,o=0;o<q.length;q.length===p||(0,A.E)(q),++o){n=q[o]
 r.push(new A.a5(A.a0(n.h(0,"key")),A.a0(n.h(0,"label"))))}s=r}r=a3.gy6()
 if(B.c.d4(r.a.a).length>=3)m=(a3.w.length===0||a3.x)&&!a3.z
 else m=!1
-q=A.fk(a4,a4,a4,a4,B.al9)
+q=A.fk(a4,a4,a4,a4,B.al7)
 r=A.fT(B.b2,a3.a.f,r,B.Q_,a4,2000,8,4,!1,new A.aEW(a3),a4,B.bk)
 p=a3.y
 l=p?a4:a3.gakJ()
@@ -107029,7 +107029,7 @@ p=!1
 if(h.d!=null)if(h.w){if(!h.x)if(b==null||B.c.d4(h.r.a.a).length>=2)a=s.length===0||h.f!=null
 else a=p
 else a=p
-p=a}a=A.fk(g,g,g,g,B.al4)
+p=a}a=A.fk(g,g,g,g,B.al3)
 if(d.length===0)e=B.IQ
 else{r=A.cR(20)
 o=A.cR(20)
@@ -107039,7 +107039,7 @@ m=h.d
 m=m==null?B.KP:A.ahf(m.a,B.GM,g,g)
 o=A.hh(!1,r,!0,A.cS(g,m,B.aT,g,g,new A.cM(e,g,n,o,g,g,B.aj),g,g,g,g,g,g,g),g,!0,g,g,g,g,g,g,g,g,g,new A.aHN(h),g,g,g,g,g,g,g)
 n=t.p
-e=A.cA(A.b([A.yJ(B.tl,B.am1,new A.aHO(h)),A.yJ(B.Pr,B.akZ,new A.aHP(h))],n),B.z,B.f2,B.C,0)
+e=A.cA(A.b([A.yJ(B.tl,B.am1,new A.aHO(h)),A.yJ(B.Pr,B.akY,new A.aHP(h))],n),B.z,B.f2,B.C,0)
 m=A.b([],n)
 for(r=d.length,l=0;l<d.length;d.length===r||(0,A.E)(d),++l){k=d[l]
 j=B.a76.h(0,k.h(0,"key"))
@@ -107053,7 +107053,7 @@ m=A.a2(A.a0(k.h(0,"label")),g,g,g,g,g,g,g)
 j=h.f
 i=k.h(0,"key")
 o.push(A.og(g,m,new A.aHS(h,k),j==null?i==null:j===i,B.b0.eY(0.3),g))}B.b.N(e,A.b([B.bQ,A.iV(o,8,8)],n))}e.push(B.ai)
-e.push(A.Ce(B.Q,B.dZ,new A.aHT(h),B.al3,h.w))
+e.push(A.Ce(B.Q,B.dZ,new A.aHT(h),B.al2,h.w))
 e=A.f7(e,B.j0,g,B.P,!1)}if(d.length===0)r=g
 else{r=A.N(a0)
 o=q===1?"":"s"
@@ -107220,7 +107220,7 @@ q=A.al(q==null?n:q.h(0,"full_name"))
 q=A.a2(q==null?"Add your name":q,n,n,n,n,B.bE,n,n)
 p=t.jm
 o=t.p
-return A.ea(s,A.f7(A.b([A.fl(A.lk(!1,B.cV,n,n,!0,n,n,n,!0,n,r,n,n,n,n,new A.aoj(this,a,m),!1,n,n,n,n,new A.Re(B.ih,B.ew,A.a2(k,1,n,n,n,n,n,n),n),n,q,n,B.P7,n),n,n,n,n),B.aH,A.fl(A.bP(A.b([new A.at(B.rs,A.bP(A.b([B.acb,B.aH,A.dT(A.aZN(new A.aok(m),B.Rf,A.cm([m.a],p),!1,p),n,1/0),B.cp,B.alS],o),B.ak,B.m,B.C),n)],o),B.z,B.m,B.C),n,n,n,n),B.aH,A.fl(A.bP(A.b([A.lk(!1,n,n,n,!0,n,n,n,!0,n,B.OJ,n,n,n,n,new A.aol(a),!1,n,n,n,n,B.akV,n,B.alZ,n,n,n),l.$3(B.te,"Terms of Service","https://promptpearl.app/terms.html"),l.$3(B.Og,"Privacy Policy","https://promptpearl.app/privacy.html"),l.$3(B.Oi,"Content Policy",u.p)],o),B.z,B.m,B.C),n,n,n,n),B.aH,A.fl(A.bP(A.b([A.lk(!1,n,n,n,!0,n,n,n,!0,n,B.OR,n,n,n,n,new A.aom(this,a),!1,n,n,n,n,n,n,B.alV,n,n,n),B.QI,A.lk(!1,n,n,n,!0,n,n,n,!0,n,B.P5,n,n,n,n,new A.aon(this,a),!1,n,n,n,n,n,n,B.alp,n,n,n)],o),B.z,B.m,B.C),n,n,n,n),B.hX,B.IT,B.cp,B.IV],o),B.cV,n,B.P,!1),n,!1,n)}}
+return A.ea(s,A.f7(A.b([A.fl(A.lk(!1,B.cV,n,n,!0,n,n,n,!0,n,r,n,n,n,n,new A.aoj(this,a,m),!1,n,n,n,n,new A.Re(B.ih,B.ew,A.a2(k,1,n,n,n,n,n,n),n),n,q,n,B.P7,n),n,n,n,n),B.aH,A.fl(A.bP(A.b([new A.at(B.rs,A.bP(A.b([B.acb,B.aH,A.dT(A.aZN(new A.aok(m),B.Rf,A.cm([m.a],p),!1,p),n,1/0),B.cp,B.alS],o),B.ak,B.m,B.C),n)],o),B.z,B.m,B.C),n,n,n,n),B.aH,A.fl(A.bP(A.b([A.lk(!1,n,n,n,!0,n,n,n,!0,n,B.OJ,n,n,n,n,new A.aol(a),!1,n,n,n,n,B.akU,n,B.alZ,n,n,n),l.$3(B.te,"Terms of Service","https://promptpearl.app/terms.html"),l.$3(B.Og,"Privacy Policy","https://promptpearl.app/privacy.html"),l.$3(B.Oi,"Content Policy",u.p)],o),B.z,B.m,B.C),n,n,n,n),B.aH,A.fl(A.bP(A.b([A.lk(!1,n,n,n,!0,n,n,n,!0,n,B.OR,n,n,n,n,new A.aom(this,a),!1,n,n,n,n,n,n,B.alV,n,n,n),B.QI,A.lk(!1,n,n,n,!0,n,n,n,!0,n,B.P5,n,n,n,n,new A.aon(this,a),!1,n,n,n,n,n,n,B.aln,n,n,n)],o),B.z,B.m,B.C),n,n,n,n),B.hX,B.IT,B.cp,B.IY],o),B.cV,n,B.P,!1),n,!1,n)}}
 A.aoi.prototype={
 $1(a){var s=null,r=this.a,q=A.fT(B.b2,!0,r,B.tz,s,s,1,s,!1,s,s,B.EV)
 return A.vK(A.b([A.ee(B.fw,s,s,new A.aog(a),s,s),A.ee(B.oO,s,s,new A.aoh(a,r),s,s)],t.p),q,B.alK)},
@@ -107238,8 +107238,8 @@ A.aof.prototype={
 $1(a){return new A.pE(new A.aoe(this.a),null)},
 $S:210}
 A.aoe.prototype={
-$2(a,b){var s=null,r=this.a,q=t.p,p=A.bP(A.b([B.alw,B.aH,B.al0,A.fT(B.b2,!1,r,B.tz,s,s,1,s,!1,new A.aob(b),s,B.bk)],q),B.ak,B.m,B.a9),o=A.ee(B.fw,s,s,new A.aoc(a),s,s)
-return A.vK(A.b([o,A.ee(B.alf,s,s,r.a.a==="DELETE"?new A.aod(a):s,s,s)],q),p,B.aly)},
+$2(a,b){var s=null,r=this.a,q=t.p,p=A.bP(A.b([B.alv,B.aH,B.al_,A.fT(B.b2,!1,r,B.tz,s,s,1,s,!1,new A.aob(b),s,B.bk)],q),B.ak,B.m,B.a9),o=A.ee(B.fw,s,s,new A.aoc(a),s,s)
+return A.vK(A.b([o,A.ee(B.ald,s,s,r.a.a==="DELETE"?new A.aod(a):s,s,s)],q),p,B.alx)},
 $S:672}
 A.aob.prototype={
 $1(a){return this.a.$1(new A.aoa())},
@@ -107343,7 +107343,7 @@ q=J.b8(r)
 p=A.Ol(A.al(q.h(r,"key")),18)
 o=A.Ol(A.al(q.h(r,"key")),18)
 m.push(A.og(p,A.a2(A.a0(q.h(r,"label")),n,n,n,n,n,n,n),new A.aLz(this,c,r),J.c(q.h(r,"key"),b),B.b0.eY(0.3),o==null))}return A.iV(m,8,8)},
-E(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=A.cN(a2,!0,t.V).CW,b=e.d,a=B.c.d4(b.a.a).length>=3&&!e.x,a0=t.p,a1=A.fk(A.b([A.hP(d,d,B.tr,d,d,new A.aLG(a2),d,d,"Saved posts")],a0),d,d,d,B.alt)
+E(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=A.cN(a2,!0,t.V).CW,b=e.d,a=B.c.d4(b.a.a).length>=3&&!e.x,a0=t.p,a1=A.fk(A.b([A.hP(d,d,B.tr,d,d,new A.aLG(a2),d,d,"Saved posts")],a0),d,d,d,B.alr)
 if(c.a===0)b=B.IZ
 else{b=A.fT(B.b2,!1,b,B.PY,d,1000,6,3,!1,new A.aLH(e),d,B.bk)
 s=A.a2("Platform",d,d,d,d,B.aY,d,d)
@@ -107426,7 +107426,7 @@ p=A.b([],s)
 if(A.Ol(A.al(j.h(0,l)),18)!=null){o=A.Ol(A.al(j.h(0,l)),22)
 o.toString
 j=B.a78.h(0,A.al(j.h(0,l)))
-p.push(new A.at(B.dQ,A.cA(A.b([o,B.cH,A.a2(j==null?"Post":j,m,m,m,m,B.Fb,m,m)],s),B.z,B.m,B.C,0),m))}p.push(A.wA(A.cA(A.b([A.eO(A.xC(B.Pa,B.alu,new A.aul(a,k,h),A.Tt(m,m,m,m,m,m,m,m,m,m,m,B.aec,m,m,m,m,m,m,m,m)),1),B.kj,A.eO(new A.dZ("Make video",new A.aum(a,k),B.hj,!1,m),1)],s),B.z,B.m,B.C,0),B.a0))
+p.push(new A.at(B.dQ,A.cA(A.b([o,B.cH,A.a2(j==null?"Post":j,m,m,m,m,B.Fb,m,m)],s),B.z,B.m,B.C,0),m))}p.push(A.wA(A.cA(A.b([A.eO(A.xC(B.Pa,B.als,new A.aul(a,k,h),A.Tt(m,m,m,m,m,m,m,m,m,m,m,B.aec,m,m,m,m,m,m,m,m)),1),B.kj,A.eO(new A.dZ("Make video",new A.aum(a,k),B.hj,!1,m),1)],s),B.z,B.m,B.C,0),B.a0))
 p.push(B.bQ)
 j=t.j
 p.push(n.oK(a,"Titles",J.jV(j.a(k.h(0,"titles")),new A.aun(),t.N).bl(0,"\n"),B.O1))
@@ -107741,7 +107741,7 @@ k=A.b([],t.Ot)
 for(j=a.ay,i=j.length,n=0;n<j.length;j.length===i||(0,A.E)(j),++n){d=j[n]
 k.push(new A.a5(d,""+d+" seconds"))}s.push(c.NS(k,c.r,new A.aNY(c)))
 s.push(new A.at(B.cU,A.a2("Sound",b,b,b,b,B.aY,b,b),b))
-s.push(A.b_8(B.Q,new A.aNZ(c),B.akQ,B.akS,c.w))
+s.push(A.b_8(B.Q,new A.aNZ(c),B.akP,B.akR,c.w))
 s=A.f7(s,B.j0,b,B.P,!1)
 k=A.N(a0)
 j=q===1?"":"s"
@@ -108585,7 +108585,7 @@ k=j}k=A.a2(k,l,l,l,l,B.kw,B.aJ,l)
 $.m_()
 j=m.c
 r=t.p
-k=A.b([B.IW,B.bj,s,B.cp,k,B.oy,new A.dZ("See plans",new A.aQJ(a,j),B.ti,!1,l)],r)
+k=A.b([B.IV,B.bj,s,B.cp,k,B.oy,new A.dZ("See plans",new A.aQJ(a,j),B.ti,!1,l)],r)
 k.push(B.a9l)
 k.push(B.oy)
 k.push(B.alE)
@@ -108710,7 +108710,7 @@ m=l.f
 if(!(!s&&l.r==null))i=s&&B.c.d4(i.a.a).length<3
 else i=!0
 h.push(new A.dZ(r,i?k:l.gauv(),q,m,k))
-if(l.a.e)h.push(A.yJ(B.ts,B.al7,new A.aK8()))
+if(l.a.e)h.push(A.yJ(B.ts,B.al6,new A.aK8()))
 return new A.at(new A.ag(16,0,16,16+j.f.d),A.fb(!0,A.bP(h,B.bK,B.m,B.a9),!1,B.Q,!0),k)}}
 A.aK0.prototype={
 $0(){return this.a.f=!0},
@@ -108788,7 +108788,7 @@ o=p?12:8
 n=t.p
 m=A.b([A.la(p?B.On:B.Oo,k,k,B.i,k,k,k,k,k,k,k,20,k,k)],n)
 p=l.f
-if(p)B.b.N(m,A.b([B.hW,B.alm],n))
+if(p)B.b.N(m,A.b([B.hW,B.alk],n))
 return A.k9(k,new A.m6(s,A.hn(B.H,A.b([new A.Iv(j,k),q,A.tB(k,A.eS(!1,B.I,!0,k,A.hh(!1,k,!0,new A.at(new A.ag(o,8,o,8),A.cA(m,B.z,B.m,B.a9,0),k),B.fp,!0,k,k,k,k,k,k,k,k,k,l.gaxe(),k,k,k,k,k,k,k),B.n,B.W,0,k,k,B.fp,k,k,B.bW),k,k,k,10,10,k),A.tB(0,new A.Iy(j,B.anM,!0,k),k,k,0,0,k,k)],n),B.D,B.bR,k),k),B.ah,!1,k,k,k,k,k,k,k,k,k,k,k,k,k,k,new A.aOa(l,r),k,k,k,k,k,k)}}
 A.aOd.prototype={
 $1(a){var s=0,r=A.o(t.a),q,p=this,o
@@ -116121,8 +116121,8 @@ B.NS=new A.ar(58573,"MaterialIcons",null,!1)
 B.i=new A.C(1,1,1,1,B.e)
 B.P_=new A.aR(B.NS,40,null,null,null,null,B.i,null,null,null,null,null,null,null)
 B.IP=new A.dX(B.H,null,null,B.P_,null)
-B.alB=new A.ah("Photo editor is loading\u2026 pull down on Home to refresh.",null,null,null,null,null,null,null,null,null)
-B.IQ=new A.dX(B.H,null,null,B.alB,null)
+B.alA=new A.ah("Photo editor is loading\u2026 pull down on Home to refresh.",null,null,null,null,null,null,null,null,null)
+B.IQ=new A.dX(B.H,null,null,B.alA,null)
 B.j1=new A.ag(32,32,32,32)
 B.aJ=new A.np(2,"center")
 B.alW=new A.ah("Video generation is being set up. Please check back soon.",null,null,B.aJ,null,null,null,null,null,null)
@@ -116134,6 +116134,14 @@ B.aqb=new A.axZ(0,"material")
 B.b7=new A.C(1,0.17647058823529413,0.8313725490196079,0.7490196078431373,B.e)
 B.is=new A.ik(null,null,null,null,null,B.b7,null,null,null,null)
 B.IU=new A.dX(B.H,null,null,B.is,null)
+B.dl=new A.ar(57527,"MaterialIcons",null,!1)
+B.Pj=new A.aR(B.dl,40,null,null,null,null,B.bq,null,null,null,null,null,null,null)
+B.IV=new A.dX(B.H,null,null,B.Pj,null)
+B.Jh=new A.ik(null,null,null,null,null,null,null,null,null,null)
+B.fU=new A.dX(B.H,null,null,B.Jh,null)
+B.all=new A.ah('No characters yet.\nTap "New character" to create your first one \u2014 like Ameer, Jalal or Sara.',null,null,B.aJ,null,null,null,null,null,null)
+B.a9m=new A.at(B.j1,B.all,null)
+B.IX=new A.dX(B.H,null,null,B.a9m,null)
 B.qL=new A.C(1,0.9803921568627451,0.9803921568627451,0.9803921568627451,B.e)
 B.Kn=new A.C(1,0.9607843137254902,0.9607843137254902,0.9607843137254902,B.e)
 B.K7=new A.C(1,0.9333333333333333,0.9333333333333333,0.9333333333333333,B.e)
@@ -116148,18 +116156,10 @@ B.qo=new A.C(1,0.12941176470588237,0.12941176470588237,0.12941176470588237,B.e)
 B.a7h=new A.d3([50,B.qL,100,B.Kn,200,B.K7,300,B.qN,350,B.eI,400,B.lv,500,B.qV,600,B.h2,700,B.dM,800,B.dh,850,B.lD,900,B.qo],t.pl)
 B.nz=new A.t0(B.a7h,1,0.6196078431372549,0.6196078431372549,0.6196078431372549,B.e)
 B.kw=new A.u(!0,B.nz,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.al8=new A.ah("PromptPearl AI Studio \xb7 v1.0.0",null,B.kw,null,null,null,null,null,null,null)
-B.IV=new A.dX(B.H,null,null,B.al8,null)
-B.dl=new A.ar(57527,"MaterialIcons",null,!1)
-B.Pj=new A.aR(B.dl,40,null,null,null,null,B.bq,null,null,null,null,null,null,null)
-B.IW=new A.dX(B.H,null,null,B.Pj,null)
-B.Jh=new A.ik(null,null,null,null,null,null,null,null,null,null)
-B.fU=new A.dX(B.H,null,null,B.Jh,null)
-B.aln=new A.ah('No characters yet.\nTap "New character" to create your first one \u2014 like Ameer, Jalal or Sara.',null,null,B.aJ,null,null,null,null,null,null)
-B.a9m=new A.at(B.j1,B.aln,null)
-B.IY=new A.dX(B.H,null,null,B.a9m,null)
-B.akN=new A.ah("Loading\u2026 pull down on Home to refresh.",null,null,null,null,null,null,null,null,null)
-B.IZ=new A.dX(B.H,null,null,B.akN,null)
+B.alu=new A.ah("PromptPearl AI \xb7 v1.0.0",null,B.kw,null,null,null,null,null,null,null)
+B.IY=new A.dX(B.H,null,null,B.alu,null)
+B.akM=new A.ah("Loading\u2026 pull down on Home to refresh.",null,null,null,null,null,null,null,null,null)
+B.IZ=new A.dX(B.H,null,null,B.akM,null)
 B.zE=new A.tn(64,null)
 B.qe=new A.dX(B.H,null,null,B.zE,null)
 B.J0=new A.j8(0,"close")
@@ -116306,14 +116306,14 @@ B.OX=new A.aR(B.ta,48,null,null,null,null,B.b7,null,null,null,null,null,null,nul
 B.ai=new A.cw(null,8,null,null)
 B.cX=new A.hM(600)
 B.agH=new A.u(!0,null,null,null,null,null,null,B.cX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.akW=new A.ah("Tap to choose a photo",null,B.agH,null,null,null,null,null,null,null)
-B.Zx=s([B.OX,B.ai,B.akW],t.p)
+B.akV=new A.ah("Tap to choose a photo",null,B.agH,null,null,null,null,null,null,null)
+B.Zx=s([B.OX,B.ai,B.akV],t.p)
 B.KP=new A.qZ(B.P,B.f2,B.C,B.z,null,B.bZ,null,0,B.Zx,null)
 B.m=new A.oU(0,"start")
 B.a9=new A.SN(0,"min")
 B.F9=new A.u(!0,B.a1,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ale=new A.ah("Designing\u2026",null,B.F9,null,null,null,null,null,null,null)
-B.RZ=s([B.is,B.ai,B.ale],t.p)
+B.alc=new A.ah("Designing\u2026",null,B.F9,null,null,null,null,null,null,null)
+B.RZ=s([B.is,B.ai,B.alc],t.p)
 B.KQ=new A.qZ(B.P,B.m,B.a9,B.z,null,B.bZ,null,0,B.RZ,null)
 B.OK=new A.aR(B.dl,32,null,null,null,null,B.i,null,null,null,null,null,null,null)
 B.cp=new A.cw(null,6,null,null)
@@ -116662,12 +116662,12 @@ B.rD=new A.rf(!1,!1,!1,!0)
 B.cW=new A.Rh(0,"tight")
 B.b8=new A.hM(700)
 B.ft=new A.u(!0,null,null,null,null,null,18,B.b8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alb=new A.ah("Recent creations",null,B.ft,null,null,null,null,null,null,null)
-B.MQ=new A.k3(1,B.cW,B.alb,null)
+B.al9=new A.ah("Recent creations",null,B.ft,null,null,null,null,null,null,null)
+B.MQ=new A.k3(1,B.cW,B.al9,null)
 B.ci=new A.hM(800)
 B.F4=new A.u(!0,null,null,null,null,null,18,B.ci,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.al6=new A.ah("Episode",null,B.F4,null,null,null,null,null,null,null)
-B.MR=new A.k3(1,B.cW,B.al6,null)
+B.al5=new A.ah("Episode",null,B.F4,null,null,null,null,null,null,null)
+B.MR=new A.k3(1,B.cW,B.al5,null)
 B.bE=new A.u(!0,null,null,null,null,null,null,B.b8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.akC=new A.ah("Voices",null,B.bE,null,null,null,null,null,null,null)
 B.MS=new A.k3(1,B.cW,B.akC,null)
@@ -117019,11 +117019,11 @@ B.u8=new A.jl(2,"info")
 B.a58=new A.jl(3,"warn")
 B.a59=new A.jl(4,"error")
 B.QS=s([B.a56,B.a57,B.u8,B.a58,B.a59],A.ax("H<jl>"))
-B.al_=new A.ah("Before",null,null,null,null,null,null,null,null,null)
-B.Hp=new A.hF(!0,B.tr,B.al_,t.Mt)
+B.akZ=new A.ah("Before",null,null,null,null,null,null,null,null,null)
+B.Hp=new A.hF(!0,B.tr,B.akZ,t.Mt)
 B.Oz=new A.aR(B.hi,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alA=new A.ah("After",null,null,null,null,null,null,null,null,null)
-B.Hr=new A.hF(!1,B.Oz,B.alA,t.Mt)
+B.alz=new A.ah("After",null,null,null,null,null,null,null,null,null)
+B.Hr=new A.hF(!1,B.Oz,B.alz,t.Mt)
 B.QV=s([B.Hp,B.Hr],A.ax("H<hF<I>>"))
 B.kx=new A.h7(0,"system")
 B.O4=new A.ar(61179,"MaterialIcons",null,!1)
@@ -117038,8 +117038,8 @@ B.Hs=new A.hF(B.Fg,B.Pp,B.akk,t.b6)
 B.oQ=new A.h7(2,"dark")
 B.O5=new A.ar(61343,"MaterialIcons",null,!1)
 B.Ps=new A.aR(B.O5,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.als=new A.ah("Dark",null,null,null,null,null,null,null,null,null)
-B.Ho=new A.hF(B.oQ,B.Ps,B.als,t.b6)
+B.alq=new A.ah("Dark",null,null,null,null,null,null,null,null,null)
+B.Ho=new A.hF(B.oQ,B.Ps,B.alq,t.b6)
 B.Rf=s([B.Hq,B.Hs,B.Ho],A.ax("H<hF<h7>>"))
 B.Rh=s([4,9,14,19],t.t)
 B.ZV=s([137,80,78,71,13,10,26,10],t.Z)
@@ -117303,8 +117303,8 @@ B.afh=new A.HD("Characters",B.Po,null)
 B.VM=s([B.afi,B.afh],t.p)
 B.aH=new A.cw(null,12,null,null)
 B.alD=new A.ah("Nothing here yet \u2014 create your first image!",null,null,null,null,null,null,null,null,null)
-B.IX=new A.dX(B.H,null,null,B.alD,null)
-B.WW=s([B.Ev,B.qe,B.aH,B.IX],t.p)
+B.IW=new A.dX(B.H,null,null,B.alD,null)
+B.WW=s([B.Ev,B.qe,B.aH,B.IW],t.p)
 B.jI=new A.i(0,2)
 B.H_=new A.bE(0.75,B.a_,B.qy,B.jI,1.5)
 B.XJ=s([B.H_],t.F)
@@ -119289,12 +119289,12 @@ B.a9h=new A.xF(1,"familyShared")
 B.zB=new A.xF(2,"unknown")
 B.a9i=new A.xF(3,"assigned")
 B.d8=new A.u(!0,null,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.akU=new A.ah("Pull down to load templates",null,B.d8,null,null,null,null,null,null,null)
-B.IR=new A.dX(B.H,null,null,B.akU,null)
+B.akT=new A.ah("Pull down to load templates",null,B.d8,null,null,null,null,null,null,null)
+B.IR=new A.dX(B.H,null,null,B.akT,null)
 B.a9j=new A.at(B.cV,B.IR,null)
 B.cr=new A.u(!0,null,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alv=new A.ah("Plans and packs open very soon.",null,B.cr,B.aJ,null,null,null,null,null,null)
-B.a9l=new A.at(B.md,B.alv,null)
+B.alt=new A.ah("Plans and packs open very soon.",null,B.cr,B.aJ,null,null,null,null,null,null)
+B.a9l=new A.at(B.md,B.alt,null)
 B.a9n=new A.at(B.eS,B.fU,null)
 B.alO=new A.ah("\u2605 Long stories are part of the paid plans.",null,B.cr,null,null,null,null,null,null,null)
 B.a9o=new A.at(B.md,B.alO,null)
@@ -120208,57 +120208,57 @@ B.Fc=new A.ah("Try again",null,null,null,null,null,null,null,null,null)
 B.akE=new A.ah("I created this picture or have the right to use it.",null,null,null,null,null,null,null,null,null)
 B.akF=new A.ah("Animate",null,null,null,null,null,null,null,null,null)
 B.akG=new A.ah("Make episode",null,B.oL,null,null,null,null,null,null,null)
-B.agm=new A.u(!0,B.i,null,null,null,null,34,B.ci,null,-0.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.akH=new A.ah("PromptPearl AI Studio",null,B.agm,null,null,null,null,null,null,null)
-B.akI=new A.ah("New character",null,null,null,null,null,null,null,null,null)
-B.akJ=new A.ah("OK",null,null,null,null,null,null,null,null,null)
-B.akK=new A.ah("This takes a few minutes. You can leave this screen \u2014 it keeps going.",null,B.cr,B.aJ,null,null,null,null,null,null)
-B.akL=new A.ah("Show the words on screen",null,null,null,null,null,null,null,null,null)
+B.akH=new A.ah("New character",null,null,null,null,null,null,null,null,null)
+B.akI=new A.ah("OK",null,null,null,null,null,null,null,null,null)
+B.akJ=new A.ah("This takes a few minutes. You can leave this screen \u2014 it keeps going.",null,B.cr,B.aJ,null,null,null,null,null,null)
+B.akK=new A.ah("Show the words on screen",null,null,null,null,null,null,null,null,null)
 B.fw=new A.ah("Cancel",null,null,null,null,null,null,null,null,null)
 B.oP=new A.ah("Delete",null,B.fu,null,null,null,null,null,null,null)
-B.akM=new A.ah("Tip: tap a character in the Characters tab to choose their voice.",null,B.cr,null,null,null,null,null,null,null)
-B.akO=new A.ah("Background music",null,B.bE,null,null,null,null,null,null,null)
-B.akP=new A.ah("Re-voice scenes after changing it.",null,null,null,null,null,null,null,null,null)
-B.akQ=new A.ah("Uses double credits",null,null,null,null,null,null,null,null,null)
-B.akR=new A.ah("The storyboard is removed. Drawn scenes stay in My Creations.",null,null,null,null,null,null,null,null,null)
+B.akL=new A.ah("Tip: tap a character in the Characters tab to choose their voice.",null,B.cr,null,null,null,null,null,null,null)
+B.akN=new A.ah("Background music",null,B.bE,null,null,null,null,null,null,null)
+B.akO=new A.ah("Re-voice scenes after changing it.",null,null,null,null,null,null,null,null,null)
+B.akP=new A.ah("Uses double credits",null,null,null,null,null,null,null,null,null)
+B.akQ=new A.ah("The storyboard is removed. Drawn scenes stay in My Creations.",null,null,null,null,null,null,null,null,null)
 B.Fd=new A.ah("Enhance with Prompt Assistant",null,null,null,null,null,null,null,null,null)
-B.akS=new A.ah("Generate sound effects & ambience",null,null,null,null,null,null,null,null,null)
-B.akT=new A.ah("It will be permanently removed.",null,null,null,null,null,null,null,null,null)
-B.akV=new A.ah("support@promptpearl.app",null,null,null,null,null,null,null,null,null)
-B.akX=new A.ah("Favorites",null,null,null,null,null,null,null,null,null)
-B.akY=new A.ah("Create a character first (Characters tab).",null,null,null,null,null,null,null,null,null)
-B.akZ=new A.ah("Camera",null,null,null,null,null,null,null,null,null)
-B.al0=new A.ah("Type DELETE to confirm:",null,null,null,null,null,null,null,null,null)
-B.al1=new A.ah("Stories that use this character keep their scenes.",null,null,null,null,null,null,null,null,null)
-B.al2=new A.ah("Delete this creation?",null,null,null,null,null,null,null,null,null)
-B.al3=new A.ah("I own this photo or have permission from everyone in it to edit it.",null,null,null,null,null,null,null,null,null)
-B.al4=new A.ah("AI Photo Editor",null,null,null,null,null,null,null,null,null)
-B.al5=new A.ah('First create your characters, then tap "New story".',null,null,B.aJ,null,null,null,null,null,null)
-B.al7=new A.ah("Or email support@promptpearl.app",null,null,null,null,null,null,null,null,null)
-B.al9=new A.ah("AI Image Generator",null,null,null,null,null,null,null,null,null)
-B.ala=new A.ah("This runs on our server \u2014 you can leave this screen and come back.",null,B.cr,null,null,null,null,null,null,null)
-B.alc=new A.ah("AI Cartoon Studio",null,null,null,null,null,null,null,null,null)
-B.ald=new A.ah("Upgrade",null,B.bE,null,null,null,null,null,null,null)
-B.alf=new A.ah("Delete forever",null,B.fu,null,null,null,null,null,null,null)
-B.alg=new A.ah("Tap \u25b6 to listen. Kid voices sound like children. Re-voice scenes to hear a new voice.",null,B.cr,null,null,null,null,null,null,null)
-B.alh=new A.ah("Creation",null,null,null,null,null,null,null,null,null)
-B.ali=new A.ah("Delete this story?",null,null,null,null,null,null,null,null,null)
+B.akR=new A.ah("Generate sound effects & ambience",null,null,null,null,null,null,null,null,null)
+B.akS=new A.ah("It will be permanently removed.",null,null,null,null,null,null,null,null,null)
+B.akU=new A.ah("support@promptpearl.app",null,null,null,null,null,null,null,null,null)
+B.akW=new A.ah("Favorites",null,null,null,null,null,null,null,null,null)
+B.akX=new A.ah("Create a character first (Characters tab).",null,null,null,null,null,null,null,null,null)
+B.akY=new A.ah("Camera",null,null,null,null,null,null,null,null,null)
+B.al_=new A.ah("Type DELETE to confirm:",null,null,null,null,null,null,null,null,null)
+B.al0=new A.ah("Stories that use this character keep their scenes.",null,null,null,null,null,null,null,null,null)
+B.al1=new A.ah("Delete this creation?",null,null,null,null,null,null,null,null,null)
+B.al2=new A.ah("I own this photo or have permission from everyone in it to edit it.",null,null,null,null,null,null,null,null,null)
+B.al3=new A.ah("AI Photo Editor",null,null,null,null,null,null,null,null,null)
+B.al4=new A.ah('First create your characters, then tap "New story".',null,null,B.aJ,null,null,null,null,null,null)
+B.al6=new A.ah("Or email support@promptpearl.app",null,null,null,null,null,null,null,null,null)
+B.al7=new A.ah("AI Image Generator",null,null,null,null,null,null,null,null,null)
+B.al8=new A.ah("This runs on our server \u2014 you can leave this screen and come back.",null,B.cr,null,null,null,null,null,null,null)
+B.ala=new A.ah("AI Cartoon Studio",null,null,null,null,null,null,null,null,null)
+B.alb=new A.ah("Upgrade",null,B.bE,null,null,null,null,null,null,null)
+B.ald=new A.ah("Delete forever",null,B.fu,null,null,null,null,null,null,null)
+B.ale=new A.ah("Tap \u25b6 to listen. Kid voices sound like children. Re-voice scenes to hear a new voice.",null,B.cr,null,null,null,null,null,null,null)
+B.alf=new A.ah("Creation",null,null,null,null,null,null,null,null,null)
+B.alg=new A.ah("Delete this story?",null,null,null,null,null,null,null,null,null)
 B.ahJ=new A.u(!0,B.eJ,null,null,null,null,12,B.b8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alj=new A.ah("Your plan",null,B.ahJ,null,null,null,null,null,null,null)
-B.alk=new A.ah("History",null,B.ft,null,null,null,null,null,null,null)
-B.all=new A.ah("Credit packs",null,B.ft,null,null,null,null,null,null,null)
+B.alh=new A.ah("Your plan",null,B.ahJ,null,null,null,null,null,null,null)
+B.ali=new A.ah("History",null,B.ft,null,null,null,null,null,null,null)
+B.alj=new A.ah("Credit packs",null,B.ft,null,null,null,null,null,null,null)
 B.ahW=new A.u(!0,B.i,null,null,null,null,13,B.cX,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.alm=new A.ah("Tap for sound",null,B.ahW,null,null,null,null,null,null,null)
-B.alo=new A.ah("Save with my picture",null,null,null,null,null,null,null,null,null)
-B.alp=new A.ah("Delete account",null,B.fu,null,null,null,null,null,null,null)
-B.alq=new A.ah("Go to Characters",null,null,null,null,null,null,null,null,null)
-B.alr=new A.ah("If the server was asleep, it can take up to a minute to wake up.",null,B.cr,B.aJ,null,null,null,null,null,null)
-B.alt=new A.ah("Social Media Studio",null,null,null,null,null,null,null,null,null)
-B.alu=new A.ah("Thumbnail",null,null,null,null,null,null,null,null,null)
-B.alw=new A.ah("This permanently deletes your account, credits and all creations. Cancel any active plan first: in Google Play, in the App Store, or for plans bought on the web under Credits \u2192 Your plan \u2192 Manage.",null,null,null,null,null,null,null,null,null)
-B.alx=new A.ah("I am 18 years or older",null,B.F5,null,null,null,null,null,null,null)
-B.aly=new A.ah("Delete account",null,null,null,null,null,null,null,null,null)
-B.alz=new A.ah("Enter your email and we will send you a link to choose a new password.",null,B.d7,null,null,null,null,null,null,null)
+B.alk=new A.ah("Tap for sound",null,B.ahW,null,null,null,null,null,null,null)
+B.alm=new A.ah("Save with my picture",null,null,null,null,null,null,null,null,null)
+B.aln=new A.ah("Delete account",null,B.fu,null,null,null,null,null,null,null)
+B.alo=new A.ah("Go to Characters",null,null,null,null,null,null,null,null,null)
+B.alp=new A.ah("If the server was asleep, it can take up to a minute to wake up.",null,B.cr,B.aJ,null,null,null,null,null,null)
+B.alr=new A.ah("Social Media Studio",null,null,null,null,null,null,null,null,null)
+B.als=new A.ah("Thumbnail",null,null,null,null,null,null,null,null,null)
+B.alv=new A.ah("This permanently deletes your account, credits and all creations. Cancel any active plan first: in Google Play, in the App Store, or for plans bought on the web under Credits \u2192 Your plan \u2192 Manage.",null,null,null,null,null,null,null,null,null)
+B.alw=new A.ah("I am 18 years or older",null,B.F5,null,null,null,null,null,null,null)
+B.alx=new A.ah("Delete account",null,null,null,null,null,null,null,null,null)
+B.aly=new A.ah("Enter your email and we will send you a link to choose a new password.",null,B.d7,null,null,null,null,null,null,null)
+B.agm=new A.u(!0,B.i,null,null,null,null,34,B.ci,null,-0.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.alB=new A.ah("PromptPearl AI",null,B.agm,null,null,null,null,null,null,null)
 B.alC=new A.ah("Option B \u2014 Use my own picture",null,B.oN,null,null,null,null,null,null,null)
 B.alE=new A.ah("Still free for you",null,B.bE,null,null,null,null,null,null,null)
 B.alF=new A.ah("Delete character",null,B.fu,null,null,null,null,null,null,null)
